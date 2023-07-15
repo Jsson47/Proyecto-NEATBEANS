@@ -1,0 +1,8 @@
+databaseclass =servicios.MS_SQLServer
+jdbc=jdbc:sqlserver://
+driver=com.microsoft.sqlserver.jdbc.SQLServerDriver
+databasehost=LAPTOP\\192V3TDJ
+port = 1433
+database=RegistroPago
+username=sqlUser
+password = SqlUser2023
